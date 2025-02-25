@@ -1,1 +1,1 @@
-Programa simples em python para "restaurante virtual"
+Programa em python "Retaurante Virtual" Sabor express!
